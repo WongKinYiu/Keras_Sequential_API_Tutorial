@@ -12,12 +12,12 @@ This tutorial contains:
 3. training CNN ([3. train_cnn_model.ipynb](https://github.com/WongKinYiu/Keras_Sequential_API_Tutorial/blob/master/3.%20train_cnn_model.ipynb))
 <img src="https://github.com/WongKinYiu/Keras_Sequential_API_Tutorial/blob/master/cnn_model.png" alt="Drawing" style="width: 200px;"/>
 
-4. training FCN ([4. train_fcn_model.ipynb]
-Jonathan, Long, et al. "Fully convolutional networks for semantic segmentation." 2015.(https://github.com/WongKinYiu/Keras_Sequential_API_Tutorial/blob/master/4.%20train_fcn_model.ipynb))
+4. training FCN ([4. train_fcn_model.ipynb](https://github.com/WongKinYiu/Keras_Sequential_API_Tutorial/blob/master/4.%20train_fcn_model.ipynb))
+Jonathan, Long, et al. "Fully convolutional networks for semantic segmentation." 2015.
 <img src="https://github.com/WongKinYiu/Keras_Sequential_API_Tutorial/blob/master/fcn_model.png" alt="Drawing" style="width: 200px;"/>
 
-5. training ResNet ([5. train_res_model.ipynb]
-He, Kaiming, et al. "Deep residual learning for image recognition." 2015(https://github.com/WongKinYiu/Keras_Sequential_API_Tutorial/blob/master/5.%20train_res_model.ipynb))
+5. training ResNet ([5. train_res_model.ipynb](https://github.com/WongKinYiu/Keras_Sequential_API_Tutorial/blob/master/5.%20train_res_model.ipynb))
+He, Kaiming, et al. "Deep residual learning for image recognition." 2015
 <img src="https://github.com/WongKinYiu/Keras_Sequential_API_Tutorial/blob/master/res_model.png" alt="Drawing" style="width: 200px;"/>
 
 6. design custom loss ([6. train_custom_loss.ipynb](https://github.com/WongKinYiu/Keras_Sequential_API_Tutorial/blob/master/6.%20train_custom_loss.ipynb))
