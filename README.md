@@ -35,3 +35,5 @@ This tutorial contains:
 8. design custom image preprocess function for training ([8. train_custom_preprocess.ipynb](https://github.com/WongKinYiu/Keras_Sequential_API_Tutorial/blob/master/8.%20train_custom_preprocess.ipynb))
 `Terrance, DeVries, et al. "Improved regularization of convolutional neural networks with cutout" 2017.`
 
+
+If you can not view .ipynb file, please paste the link to [jupyter nbviewer](https://nbviewer.jupyter.org/).
